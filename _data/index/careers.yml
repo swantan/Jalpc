@@ -28,17 +28,3 @@
     detail: Master student and Teaching Assistant
     i18n: company_b_job
   icon: fa-plus-square
-  
- - name:
-    detail: National University of Malaysia (UKM)
-    i18n: company_b
-  desc:
-    detail: Faculty of Science and Technology (FST)
-    i18n: company_b_desc
-  date:
-    detail: 2009 - 2012
-    i18n: company_b_date
-  job:
-    detail: Bachelor of Science in Bioinformatics
-    i18n: company_b_job
-  icon: fa-plus-square
