@@ -14,20 +14,6 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: true
-
-- name:
-    detail: University of Rhode Island
-    i18n: company_b
-  desc:
-    detail: College of Biological and Life Sciences - Cell and Molecular Biology
-    i18n: company_b_desc
-  date:
-    detail: Jan 2018 - Dec 2019
-    i18n: company_b_date
-  job:
-    detail: PhD student and Graduate Research Assistant
-    i18n: company_b_job
-  icon: fa-plus-square
   
   - name:
     detail: Perdana University
