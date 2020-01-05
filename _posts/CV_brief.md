@@ -22,16 +22,15 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
 ### Publication
 
-#### __Journal Article__
+#### Journal Article
 
 1.	Quantifying the Persistence of Vaccine-derived T cell Epitopes in Circulating Swine Influenza Strains from 2013-2017. [Manuscript in preparation].
 
 2.	Hewitt JS, Karuppannan AK, **Tan S**, Gauger P, Halbur PG, Gerber PF, De Groot AS, Moise L, Opriessnig T (2019). A prime-boost concept using a T-cell epitope-driven DNA vaccine followed by a whole virus vaccine effectively protected pigs in the pandemic H1N1 pig challenge model. Vaccine: Vol. 37(31):4302-4309.
 
-3.	Raman HSA, Tan S, August JT, and Khan AM (2019). Dynamics of Influenza A (H5N1) virus protein sequence diversity. [Manuscript accepted by PeerJ].
+3.	Raman HSA, **Tan S**, August JT, and Khan AM (2019). Dynamics of Influenza A (H5N1) virus protein sequence diversity. [Manuscript accepted by PeerJ].
 
-
-4.	Tan S, Nik Mohamed NE, Raman HSA, Khan AM, August JT (2016). Avian influenza H7N9 virus adaptation to human hosts. [Manuscript submitted to Nature Scientific Reports].
+4.	**Tan S**, Nik Mohamed NE, Raman HSA, Khan AM, August JT (2016). Avian influenza H7N9 virus adaptation to human hosts. [Manuscript submitted to Nature Scientific Reports].
 
 5.	Sjaugi MF+, Tan S+, Raman HSA, Lim WC, Mohamed NE, Khan AM. (2015).  g-FLUA2H:  A web-based application to study the dynamics of animal-to-human mutation transmission for influenza viruses. BMC Medical Genomics: 8 (Suppl 4): S5. +Equal contributors.
 
