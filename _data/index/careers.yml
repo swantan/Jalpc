@@ -1,43 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of Rhode Island
+    detail: University of Georgia
     i18n: company_a
   desc:
-    detail: Biological and Environmental Sciences Department, Evolutionary and Marine Biology Specialization
+    detail: College of Veterinary Medicine - Infectious Diseases
     i18n: company_a_desc
   date:
-    detail: September 2017 - Present
+    detail: Jan 2020 - Present
     i18n: company_a_date
   job:
-    detail: Ph.D. Student and Research Assistant
+    detail: PhD student and Graduate Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
+#  present: true
 
 - name:
-    detail: Bermuda Insitute of Ocean Sceinces
+    detail: University of Rhode Island
     i18n: company_b
   desc:
-    detail:
+    detail: Biological and Environmental Sciences Department - Cell and Molecular Biology
     i18n: company_b_desc
   date:
-    detail: June 2014 - Present
+    detail: 2018 - 2019
     i18n: company_b_date
   job:
-    detail: CABIOS & Graduate Research Intern, Teaching Assistant
+    detail: PhD student and Graduate Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Perdana University
+    i18n: company_b
+  desc:
+    detail: School of Data Science - Bioinformatics
+    i18n: company_b_desc
+  date:
+    detail: 2015 - 2017
+    i18n: company_b_date
+  job:
+    detail: Master student and Teaching Assistant
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Carleton University
+    detail: National University of Malaysia
     i18n: company_b
   desc:
-    detail: Department of Environmental Sciences, Minor in Biology
+    detail: Faculty of Science and Technology
     i18n: company_b_desc
   date:
-    detail: September 2011 - April 2016
+    detail: 2009 - 2012
     i18n: company_b_date
   job:
-    detail: Bachelor of Science
+    detail: Bachelor of Science in Bioinformatics
     i18n: company_b_job
   icon: fa-plus-square
