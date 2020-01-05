@@ -11,7 +11,7 @@ img_path: /swantan.github.io/static/assets/img/blog  # url should be '/homepage/
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Swan Tan  # Be used at blog posts' author.
+  name: Swan  # Be used at blog posts' author.
   first_name: Swan  # Be used at index page about me section.
   last_name: Tan  # Be used at index page about me section.
   avatar: /static/assets/img/landing/swan_headshot.jpg  # upload your avatar at directory and edit it.
