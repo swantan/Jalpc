@@ -68,10 +68,9 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
 Year|Title
 :---:|:---
-2019|Travel Fellowship awarded by USDA-NIFA to support International Veterinary Immunology Symposium (IVIS) @ Seattle, USA; 13-16 Aug 2019
-2018|Travel Fellowship awarded by La Jolla Institute for Immunology to support Immune Epitope Database (IEDB) User Workshop @ California, USA; 22-23 Oct 2018
+2019|Travel Fellowship awarded by USDA-NIFA to support International Veterinary Immunology Symposium (IVIS) @ Seattle, USA; 13 - 16 Aug 2019
+2018|Travel Fellowship awarded by La Jolla Institute for Immunology to support Immune Epitope Database (IEDB) User Workshop @ California, USA; 22 - 23 Oct 2018
 2017|Asia-Pacific Bioinformatics Network (APBioNet) Best Applied Research Thesis Award for MSc. Thesis work at Perdana University, Malaysia
 2015-2017|MyBrain15 (MyMaster) Scholarship awarded by Ministry of Higher Education (MOHE), Malaysia
-2015|Travel Fellowship awarded by Asia-Pacific Bioinformatics Network (APBioNet) to support 14th International Conference on Bioinformatics (GIW/InCoB2015) @ Tokyo, Japan; 9-11 Sept 2015
+2015|Travel Fellowship awarded by Asia-Pacific Bioinformatics Network (APBioNet) to support 14th International Conference on Bioinformatics (GIW/InCoB2015) @ Tokyo, Japan; 9 - 11 Sept 2015
 2009-2012|Jabatan Perkhidmatan Awam (JPA) Scholarship awarded by Public Service Department of Malaysia
-
