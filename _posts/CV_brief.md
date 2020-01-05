@@ -20,6 +20,17 @@ Year|Position|Institution
 July-Sept 2012|Intern|Perdana University Graduate School of Medicine (PUGSOM)
 June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
+### Grant and Award
+
+Year|Title
+:---:|:---
+2019|Travel Fellowship awarded by USDA-NIFA to support International Veterinary Immunology Symposium (IVIS) @ Seattle, USA; 13 - 16 Aug 2019
+2018|Travel Fellowship awarded by La Jolla Institute for Immunology to support Immune Epitope Database (IEDB) User Workshop @ California, USA; 22 - 23 Oct 2018
+2017|Asia-Pacific Bioinformatics Network (APBioNet) Best Applied Research Thesis Award for MSc. Thesis work at Perdana University, Malaysia
+2015-2017|MyBrain15 (MyMaster) Scholarship awarded by Ministry of Higher Education (MOHE), Malaysia
+2015|Travel Fellowship awarded by Asia-Pacific Bioinformatics Network (APBioNet) to support 14th International Conference on Bioinformatics (GIW/InCoB2015) @ Tokyo, Japan; 9 - 11 Sept 2015
+2009-2012|Jabatan Perkhidmatan Awam (JPA) Scholarship awarded by Public Service Department of Malaysia
+
 ### Publication
 
 #### Journal Article
@@ -64,26 +75,14 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
 3. "The Global Roulette of Influenza Vaccination" - as Invited Speaker @ Public Lecture: Vaccine Design & Bioimaging Probes, Metabolism Class, University of Indonesia; May 2013.
 
-### Grant and Award
-
-Year|Title
-:---:|:---
-2019|Travel Fellowship awarded by USDA-NIFA to support International Veterinary Immunology Symposium (IVIS) @ Seattle, USA; 13 - 16 Aug 2019
-2018|Travel Fellowship awarded by La Jolla Institute for Immunology to support Immune Epitope Database (IEDB) User Workshop @ California, USA; 22 - 23 Oct 2018
-2017|Asia-Pacific Bioinformatics Network (APBioNet) Best Applied Research Thesis Award for MSc. Thesis work at Perdana University, Malaysia
-2015-2017|MyBrain15 (MyMaster) Scholarship awarded by Ministry of Higher Education (MOHE), Malaysia
-2015|Travel Fellowship awarded by Asia-Pacific Bioinformatics Network (APBioNet) to support 14th International Conference on Bioinformatics (GIW/InCoB2015) @ Tokyo, Japan; 9 - 11 Sept 2015
-2009-2012|Jabatan Perkhidmatan Awam (JPA) Scholarship awarded by Public Service Department of Malaysia
-
 #### Student Mentorship
 
 Year: 2016</br>
-Ke Hui Mei (PU-CBi Intern)
-Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)
-Project: Zika virus sequence diversity analysis
+Ke Hui Mei (PU-CBi Intern)</br>
+Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)</br>
+Project: Zika virus sequence diversity analysis</br>
 
-
-Year: 2015
-Lim Wan Ching (PU-CBi Intern)
-Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)
+Year: 2015</br>
+Lim Wan Ching (PU-CBi Intern)</br>
+Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)</br>
 Project: Sequence diversity and mutation transmission pattern of influenza A H5N1 virus
