@@ -26,8 +26,8 @@ author:  # change following line to your infomation.
     - name: icon-git
     - name: icon-python
   skill_icon2:
-    - name: icon-r
-    - name: iicon-shell
+    - name: icon-R
+    - name: icon-shell
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment
