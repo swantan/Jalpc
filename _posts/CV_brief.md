@@ -38,7 +38,8 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
 7.	Nik Mohamed NE, Raman HSA, **Tan S**, Azhar NA, Sjaugi MF, Khan AM. (2014). Perdana University Centre for Bioinformatics: contributing to the growth of bioinformatics in Malaysia.  Asia Pacific Biotech News – Bioinformatics (September issue): 18(9), 38-42.
 
-#### Poster  
+#### Poster 
+
 1.	Hewitt JS, Karuppannan AK, **Tan S**, Gauger PC, Halbur PG, Gerber PF, De Groot AS, Opriessnig T. A prime-boost concept using a T-cell epitope-driven DNA vaccine followed by a whole virus vaccine effectively protected pigs in the pandemic H1N1 pig challenge model. Upcoming poster presentation at: The 2019 International Society for Vaccines (ISV) Annual Congress; Oct. 27 - 29; Ghent, Belgium.
 
 2.	Alluhaybi K, **Tan S**, Khan S, Gutiérrez AH, Moise L, Gauger PC, Martin W, De Groot AS. Predicting The Next Pandemic Using Swine IAV Data and Immunoinformatics Tools. Poster presented at: The 99th Annual Conference of Research Workers in Animal Diseases (CRWAD) 2018; Dec. 1 - 4; Chicago, Illinois, USA.
@@ -46,4 +47,11 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 3.	Khan S, **Tan S**, Shepherd F, Gutiérrez AH, Moise L, Marthaler D, De Groot AS. Application of the Epitope Content Comparison Tool (EpiCC) to develop better porcine rotavirus vaccines. Poster presented at: The 99th Annual Conference of Research Workers in Animal Diseases (CRWAD) 2018; Dec. 1 - 4; Chicago, Illinois, USA.
 
 4.	Raman HSA, **Tan S**, August JT, and Khan AM. Dissecting the dynamics of influenza A H5N1 protein sequence diversity. 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology (ISMB/ECCB 2015); 10 – 14 July 2015; Convention Center Dublin, Ireland.
+
+5. **Tan S**, Sjaugi MF, Raman HSA, Mohamad NE, August JT, and Khan AM. Characterization of Avian to Human Mutation Patterns for Influenza A (H7N9) Virus. 
+**Poster presented @ GIW/InCoB 2015; Sept. 9 - 11; Odaiba, Tokyo, Japan.**
+
+6. **Tan S**, Sjaugi MF, Raman HSA, Nik Mohamed NE, August JT, Khan AM. Antigenic transmission patterns for influenza A virus subtype H7N9. 
+**Poster showcased @ BioPharma Asia Convention 2015; Mar. 24 & 25; Suntec City Convention Hall, Singapore.**
+
 
