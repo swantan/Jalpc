@@ -89,5 +89,6 @@ Project: Sequence diversity and mutation transmission pattern of influenza A H5N
 
 ### Professional Affiliations
 
+Year|Description|Position
 :---:|:---:|:---:
 2012-2016|Asia-Pacific Bioinformatics Network (APBioNet)|Member
