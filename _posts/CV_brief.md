@@ -22,11 +22,11 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
 ### Publication
 
-#### Journal Article
+#### _Journal Article_
 
 1.	Quantifying the Persistence of Vaccine-derived T cell Epitopes in Circulating Swine Influenza Strains from 2013-2017. [Manuscript in preparation].
 
-2.	Hewitt JS, Karuppannan AK, *Tan S*, Gauger P, Halbur PG, Gerber PF, De Groot AS, Moise L, Opriessnig T (2019). A prime-boost concept using a T-cell epitope-driven DNA vaccine followed by a whole virus vaccine effectively protected pigs in the pandemic H1N1 pig challenge model. Vaccine: Vol. 37(31):4302-4309.
+2.	Hewitt JS, Karuppannan AK, **Tan S**, Gauger P, Halbur PG, Gerber PF, De Groot AS, Moise L, Opriessnig T (2019). A prime-boost concept using a T-cell epitope-driven DNA vaccine followed by a whole virus vaccine effectively protected pigs in the pandemic H1N1 pig challenge model. Vaccine: Vol. 37(31):4302-4309.
 
 3.	Raman HSA, Tan S, August JT, and Khan AM (2019). Dynamics of Influenza A (H5N1) virus protein sequence diversity. [Manuscript accepted by PeerJ].
 
