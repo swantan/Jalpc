@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   last_name: Tan  # Be used at index page about me section.
   avatar: /static/assets/img/landing/swan_headshot.jpg  # upload your avatar at directory and edit it.
   github_username: swantan  # Leave blank if you don't have now
-  linkedin_id:  # Leave blank if you don't have now
+  linkedin_id: Swan Tan # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: tanswan2011@gmail.com  # Leave blank if you don't have now
@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
     - name: icon-git
     - name: icon-python
   skill_icon2:
-    - name: icon-rstudio
+    - name: r-project
     - name: icon-shell
   desc: Introduce myself will be here.  # Describe yourself.
 
