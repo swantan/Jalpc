@@ -12,7 +12,7 @@ Year|Institution|Qualification|Dsicipline
 ### Professional Experience
 
 Year|Position|Institution
-:---:|:---:|:---:|:---:
+:---:|:---:|:---:
 2017|MIT Automation Engineer|Intel Corporation, Penang, Malaysia
 2015-2017|Teaching Assistant|Perdana University School of Data Sciences 
 (PU-SDS), Malaysia
