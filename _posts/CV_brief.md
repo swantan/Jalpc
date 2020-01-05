@@ -75,7 +75,7 @@ Year|Title
 
 3. "The Global Roulette of Influenza Vaccination" - as Invited Speaker @ Public Lecture: Vaccine Design & Bioimaging Probes, Metabolism Class, University of Indonesia; May 2013.
 
-#### Student Mentorship
+### Mentorship
 
 Year: 2016</br>
 Ke Hui Mei (PU-CBi Intern)</br>
@@ -86,3 +86,8 @@ Year: 2015</br>
 Lim Wan Ching (PU-CBi Intern)</br>
 Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)</br>
 Project: Sequence diversity and mutation transmission pattern of influenza A H5N1 virus
+
+### Professional Affiliations
+
+:---:|:---:|:---:
+2012-2016|Asia-Pacific Bioinformatics Network (APBioNet)|Member
