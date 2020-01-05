@@ -15,7 +15,7 @@
   icon: fa-plus-square
   present: true
   
-  - name:
+- name:
     detail: Perdana University
     i18n: company_b
   desc:
@@ -29,7 +29,7 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-  - name:
+ - name:
     detail: National University of Malaysia (UKM)
     i18n: company_b
   desc:
