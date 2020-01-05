@@ -1,4 +1,4 @@
-## URI CSC 593 Programming for Scientists (Fall 2019)
+## Curriculum Vitae
 
 ### Final Project
 
