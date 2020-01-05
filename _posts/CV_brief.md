@@ -74,3 +74,16 @@ Year|Title
 2015-2017|MyBrain15 (MyMaster) Scholarship awarded by Ministry of Higher Education (MOHE), Malaysia
 2015|Travel Fellowship awarded by Asia-Pacific Bioinformatics Network (APBioNet) to support 14th International Conference on Bioinformatics (GIW/InCoB2015) @ Tokyo, Japan; 9 - 11 Sept 2015
 2009-2012|Jabatan Perkhidmatan Awam (JPA) Scholarship awarded by Public Service Department of Malaysia
+
+#### Student Mentorship
+
+Year: 2016<\br>
+Ke Hui Mei (PU-CBi Intern)
+Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)
+Project: Zika virus sequence diversity analysis
+
+
+Year: 2015
+Lim Wan Ching (PU-CBi Intern)
+Bachelor of Science (Honours) Bioinformatics Intership (completed), Malaysia Multimedia University (MMU)
+Project: Sequence diversity and mutation transmission pattern of influenza A H5N1 virus
