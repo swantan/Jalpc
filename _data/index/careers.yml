@@ -36,7 +36,7 @@
     detail: MIT
     i18n: company_b_desc
   date:
-    detail: 2017 (6mo)
+    detail: 2017
     i18n: company_b_date
   job:
     detail: MIT Automation Engineer
