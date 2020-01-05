@@ -22,7 +22,7 @@ June-Aug 2011|Short Attachment|National University of Malaysia (UKM)
 
 ### Publication
 
-#### _Journal Article_
+#### __Journal Article__
 
 1.	Quantifying the Persistence of Vaccine-derived T cell Epitopes in Circulating Swine Influenza Strains from 2013-2017. [Manuscript in preparation].
 
