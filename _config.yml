@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Swan's page
+title: Swan Tan
 description: Swan's page,use Jekyll and github pages.
 keywords: Swan Tan, Jekyll,github,gh-pages
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -11,7 +11,7 @@ img_path: /swantan.github.io/static/assets/img/blog  # url should be '/homepage/
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Swan  # Be used at blog posts' author.
+  name: Swan Tan  # Be used at blog posts' author.
   first_name: Swan  # Be used at index page about me section.
   last_name: Tan  # Be used at index page about me section.
   avatar: /static/assets/img/landing/swan_headshot.jpg  # upload your avatar at directory and edit it.
