@@ -4,7 +4,7 @@
     detail: University of Georgia
     i18n: company_a
   desc:
-    detail: College of Veterinary Medicine - Infectious Disease
+    detail: College of Veterinary Medicine - Infectious Diseases
     i18n: company_a_desc
   date:
     detail: Jan 2020 - Present
@@ -14,31 +14,17 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: true
-  
+
 - name:
     detail: Perdana University
     i18n: company_b
   desc:
-    detail: School of Data Sciences - Bioinformatics
+    detail: School of Data Science - Bioinformatics
     i18n: company_b_desc
   date:
     detail: 2015 - 2017
     i18n: company_b_date
   job:
-    detail: Master student
-    i18n: company_b_job
-  icon: fa-plus-square
-
- - name:
-    detail: National University of Malaysia (UKM)
-    i18n: company_b
-  desc:
-    detail: Faculty of Science and Technology - Bioinformatics
-    i18n: company_b_desc
-  date:
-    detail: 2009 - 2012
-    i18n: company_b_date
-  job:
-    detail: Bachelor of Science
+    detail: Master student and Teaching Assistant
     i18n: company_b_job
   icon: fa-plus-square
