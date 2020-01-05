@@ -5,8 +5,5 @@
 - src: landing/header_one.jpg
   title: first banner image
 
-- src: landing/header_two.JPG
+- src: landing/header_two.jpg
   title: second banner image
- 
-- src: landing/header_three.JPG
-  title: first banner image
