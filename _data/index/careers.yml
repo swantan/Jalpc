@@ -1,30 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: University of Georgia
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: College of Veterinary Medicine - Infectious Disease
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jan 2020 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: PhD student and Graduate Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: University of Rhode Island
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: College of Biological and Life Sciences - Cell and Molecular Biology
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan 2018 - Dec 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: PhD student and Graduate Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Perdana University
+    i18n: company_b
+  desc:
+    detail: School of Data Sciences - Bioinformatics
+    i18n: company_b_desc
+  date:
+    detail: 2015 - 2017
+    i18n: company_b_date
+  job:
+    detail: Master student
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: National University of Malaysia (UKM)
+    i18n: company_b
+  desc:
+    detail: Faculty of Science and Technology - Bioinformatics
+    i18n: company_b_desc
+  date:
+    detail: 2009 - 2012
+    i18n: company_b_date
+  job:
+    detail: Bachelor of Science
     i18n: company_b_job
   icon: fa-plus-square
