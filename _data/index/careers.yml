@@ -30,6 +30,20 @@
   icon: fa-plus-square
   
 - name:
+    detail: Intel Corporation, Penang, Malaysia
+    i18n: company_b
+  desc:
+    detail: MIT
+    i18n: company_b_desc
+  date:
+    detail: 2017 (6mo)
+    i18n: company_b_date
+  job:
+    detail: MIT Automation Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
     detail: Perdana University
     i18n: company_b
   desc:
