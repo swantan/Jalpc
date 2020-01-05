@@ -1,6 +1,15 @@
 ## Curriculum Vitae
 
-### Final Project
+### Education and Training
+
+|Year|Institution|Qualification|Dsicipline|
+|:---:|:---:|:---:|:---:|
+|Resident Status|
+|Race|
+|Gender|
+|Age Group|
+|Marital Status|
+|Education Level|
 
 #### Instruction
 
